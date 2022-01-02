@@ -1,4 +1,4 @@
-# Music_Project
+# Music Classifier: Genre + Mood
 
 This project has the aim to better understand a possible application of DNNs for Music tasks. The assignment was given for the "Machine Learning and Deep Learning" MSc course and the final project grade was 10/10. The project was conducted by a team of 3 students.
 Main topics:
